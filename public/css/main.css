@@ -1,0 +1,12 @@
+.players-list {
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1em;
+}
+
+.player {
+    background-color: #ccc;
+    padding: 2rem 0;
+    text-align: center;
+}
